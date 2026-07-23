@@ -199,3 +199,4 @@ If you want the production version, the pieces are: a watcher that handles log
 rotation and offset persistence, a real vector store, real API clients with
 retry logic, and systemd or container packaging. None of it changes the
 pipeline shape above.
+[SDAIAAcademy](https://github.com/SDAIAAcademy)
